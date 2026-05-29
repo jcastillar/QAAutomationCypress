@@ -74,6 +74,7 @@ Este proyecto es principalmente educativo, pero cualquier recomendación o mejor
 Cypress Official Documentation
 Node.js
 GitHub Docs
+
 ✨ Autor
 
 Desarrollado por Johana Castillo
