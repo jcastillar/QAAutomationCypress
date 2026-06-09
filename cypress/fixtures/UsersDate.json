@@ -1,0 +1,17 @@
+{  
+  "admin": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "invitado": {
+    "username": "problem_user",
+    "password": "secret_sauce"
+  }
+}
+
+
+
+
+
+
+
